@@ -2,9 +2,9 @@
 ![Zepto Grocery Delivery](https://bizbracket.in/wp-content/uploads/2024/08/Zepto-Grocery-Delivery-1068x601.jpg)
 ## 📌 Project Overview
 
-This project analyzes a Zepto-like online grocery dataset using SQL to uncover insights related to inventory management, pricing, discounts, and revenue performance.
+- ** This project analyzes a Zepto-like online grocery dataset using SQL to uncover insights related to inventory management, pricing, discounts, and revenue performance.
 
-The goal is to help business and operations teams make data-driven decisions that improve stock availability, protect margins, and maximize revenue.
+- ** The goal is to help business and operations teams make data-driven decisions that improve stock availability, protect margins, and maximize revenue.
 
 ⚠️ This is a SQL-only project (no charts), designed to demonstrate strong analytical thinking, SQL proficiency, and business insight generation.
 
@@ -12,29 +12,29 @@ The goal is to help business and operations teams make data-driven decisions tha
 
 Online grocery platforms face several operational challenges:
 
-📉 Revenue loss due to out-of-stock products
+- ** 📉 Revenue loss due to out-of-stock products
 
-💸 Margin erosion from aggressive discounting
+- ** 💸 Margin erosion from aggressive discounting
 
-📦 Overstocking in low-demand categories
+- ** 📦 Overstocking in low-demand categories
 
-🔍 Difficulty identifying high-value products and categories
+- ** 🔍 Difficulty identifying high-value products and categories
 
-⚖️ Inefficient inventory allocation across categories
+- ** ⚖️ Inefficient inventory allocation across categories
 
 ## 🎯 Project Objectives
 
-Using SQL, this project aims to:
+- ** Using SQL, this project aims to:
 
-Identify revenue-driving products and categories
+- ** Identify revenue-driving products and categories
 
-Quantify revenue at risk due to stockouts
+- ** Quantify revenue at risk due to stockouts
 
-Analyze whether discounts actually drive revenue
+- ** Analyze whether discounts actually drive revenue
 
-Detect pricing and margin risks
+- ** Detect pricing and margin risks
 
-Support inventory, pricing, and promotion decisions with data-backed insights
+- ** Support inventory, pricing, and promotion decisions with data-backed insights
 
 ## 🛠️ Tools & Skills Used
 
