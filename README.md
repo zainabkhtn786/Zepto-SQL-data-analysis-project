@@ -1,5 +1,5 @@
 # 🛒 Zepto E-Commerce Data Analysis (SQL Project)
-! https://bizbracket.in/wp-content/uploads/2024/08/Zepto-Grocery-Delivery-1068x601.jpg
+!https://bizbracket.in/wp-content/uploads/2024/08/Zepto-Grocery-Delivery-1068x601.jpg
 ## 📌 Project Overview
 
 This project analyzes a Zepto-like online grocery dataset using SQL to uncover insights related to inventory management, pricing, discounts, and revenue performance.
