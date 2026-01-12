@@ -4,7 +4,7 @@
 
 - ** This project analyzes a Zepto-like online grocery dataset using SQL to uncover insights related to inventory management, pricing, discounts, and revenue performance.
 
-- ** The goal is to help business and operations teams make data-driven decisions that improve stock availability, protect margins, and maximize revenue.
+** The goal is to help business and operations teams make data-driven decisions that improve stock availability, protect margins, and maximize revenue.
 
 ⚠️ This is a SQL-only project (no charts), designed to demonstrate strong analytical thinking, SQL proficiency, and business insight generation.
 
