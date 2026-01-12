@@ -1,5 +1,5 @@
-🛒 Zepto E-Commerce Data Analysis (SQL Project)
-📌 Project Overview
+# 🛒 Zepto E-Commerce Data Analysis (SQL Project)
+## 📌 Project Overview
 
 This project analyzes a Zepto-like online grocery dataset using SQL to uncover insights related to inventory management, pricing, discounts, and revenue performance.
 
@@ -7,7 +7,7 @@ The goal is to help business and operations teams make data-driven decisions tha
 
 ⚠️ This is a SQL-only project (no charts), designed to demonstrate strong analytical thinking, SQL proficiency, and business insight generation.
 
-🧩 Business Problem
+## 🧩 Business Problem
 
 Online grocery platforms face several operational challenges:
 
@@ -21,7 +21,7 @@ Online grocery platforms face several operational challenges:
 
 ⚖️ Inefficient inventory allocation across categories
 
-🎯 Project Objectives
+## 🎯 Project Objectives
 
 Using SQL, this project aims to:
 
@@ -35,7 +35,7 @@ Detect pricing and margin risks
 
 Support inventory, pricing, and promotion decisions with data-backed insights
 
-🛠️ Tools & Skills Used
+## 🛠️ Tools & Skills Used
 
 MySQL
 
@@ -53,7 +53,7 @@ Data cleaning & validation
 
 Business analysis & insight storytelling
 
-🗂️ Dataset Description
+## 🗂️ Dataset Description
 
 The dataset contains product-level information including:
 
@@ -77,7 +77,7 @@ weightInGms – Product weight
 
 quantity – Unit quantity
 
-🔄 Data Cleaning & Preparation
+## 🔄 Data Cleaning & Preparation
 
 Key data preparation steps:
 
@@ -93,7 +93,7 @@ Added a surrogate primary key (SKU ID)
 
 ✔️ Result: A clean, reliable dataset ready for business analysis.
 
-📊 Business Questions Answered
+## 📊 Business Questions Answered
 
 The analysis answers practical business questions such as:
 
@@ -119,7 +119,7 @@ How is inventory distributed across Low / Medium / Bulk weight categories?
 
 Which categories consume the most warehouse and logistics capacity?
 
-🔍 Key Insights
+## 🔍 Key Insights
 
 A small number of products drive a large share of total revenue (Pareto principle).
 
@@ -157,7 +157,7 @@ The SQL analysis was structured into the following themes:
   - Analyzed inventory weight to assess warehouse and logistics impact
 
 
-📌 Final Business Recommendations
+## 📌 Final Business Recommendations
 
 Prioritize restocking high-revenue and high-MRP products to prevent revenue loss.
 
@@ -173,13 +173,13 @@ Optimize warehouse space for high inventory weight categories.
 
 Promote value-for-money products based on price-per-gram analysis.
 
-📁 Project Structure
+## 📁 Project Structure
 Zepto-SQL-Analysis/
 │
 ├── zepto_sql_analysis.sql   # SQL queries with insights
 └── README.md               # Project documentation
 
-🚀 Project Outcome
+## 🚀 Project Outcome
 
 This project demonstrates the ability to:
 
@@ -189,4 +189,4 @@ Perform structured data analysis
 
 Generate actionable business insights using SQL alone
 
-📌 Ideal for showcasing SQL, analytical thinking, and business acumen in Data Analyst / Business Analyst roles.
+### 📌 Ideal for showcasing SQL, analytical thinking, and business acumen in Data Analyst / Business Analyst roles.
