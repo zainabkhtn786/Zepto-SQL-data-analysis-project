@@ -42,11 +42,11 @@ Online grocery platforms face several operational challenges:
 
 - SQL Techniques:
 
-a) Aggregations (SUM, AVG, COUNT)
+   a) Aggregations (SUM, AVG, COUNT)
 
-b) CASE statements
+   b) CASE statements
 
-c) Subqueries
+   c) Subqueries
 
 - Filtering & grouping
 
@@ -122,17 +122,17 @@ j) quantity – Unit quantity
 
 ## 🔍 Key Insights
 
-A small number of products drive a large share of total revenue (Pareto principle).
+- A small number of products drive a large share of total revenue (Pareto principle).
 
-High-MRP stockouts result in significant revenue loss.
+- High-MRP stockouts result in significant revenue loss.
 
-Some categories rely heavily on discounts but still underperform, indicating poor pricing efficiency.
+- Some categories rely heavily on discounts but still underperform, indicating poor pricing efficiency.
 
-High-MRP + high-discount products pose serious margin risks.
+- High-MRP + high-discount products pose serious margin risks.
 
-Value-for-money products (low price per gram) are ideal for bundles and promotions.
+- Value-for-money products (low price per gram) are ideal for bundles and promotions.
 
-Categories with heavy inventory weight drive higher logistics and storage costs.
+- Categories with heavy inventory weight drive higher logistics and storage costs.
 
 ## Analysis Summary
 
@@ -160,34 +160,28 @@ The SQL analysis was structured into the following themes:
 
 ## 📌 Final Business Recommendations
 
-Prioritize restocking high-revenue and high-MRP products to prevent revenue loss.
+- Prioritize restocking high-revenue and high-MRP products to prevent revenue loss.
 
-Optimize discount strategies instead of applying blanket discounts.
+- Optimize discount strategies instead of applying blanket discounts.
 
-Focus marketing efforts on top revenue-generating products (80/20 rule).
+- Focus marketing efforts on top revenue-generating products (80/20 rule).
 
-Reduce aggressive discounts on premium products to protect margins.
+- Reduce aggressive discounts on premium products to protect margins.
 
-Allocate inventory budgets toward high-contributing categories.
+- Allocate inventory budgets toward high-contributing categories.
 
-Optimize warehouse space for high inventory weight categories.
+- Optimize warehouse space for high inventory weight categories.
 
-Promote value-for-money products based on price-per-gram analysis.
+- Promote value-for-money products based on price-per-gram analysis.
 
-## 📁 Project Structure
-Zepto-SQL-Analysis/
-│
-├── zepto_sql_analysis.sql   # SQL queries with insights
-└── README.md               # Project documentation
 
 ## 🚀 Project Outcome
 
-This project demonstrates the ability to:
+#### This project demonstrates the ability to:
 
-Translate business problems into SQL queries
+- Translate business problems into SQL queries
 
-Perform structured data analysis
+- Perform structured data analysis
 
-Generate actionable business insights using SQL alone
+- Generate actionable business insights using SQL alone
 
-### 📌 Ideal for showcasing SQL, analytical thinking, and business acumen in Data Analyst / Business Analyst roles.
